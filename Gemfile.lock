@@ -42,7 +42,7 @@ GEM
       event_stream_parser (>= 0.3.0, < 2.0.0)
       faraday (>= 1)
       faraday-multipart (>= 1)
-    uri (0.12.1)
+    uri (0.13.0)
     websocket (1.2.10)
     websocket-client-simple (0.8.0)
       event_emitter
