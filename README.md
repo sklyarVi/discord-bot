@@ -24,7 +24,7 @@
         - Select 'bot' under scopes.
         - Choose the necessary permissions under 'Bot Permissions'.
         - Use the generated URL to invite your bot.
-~~~~
+
 6. Configure the Channel
     - On your server, create a channel named `#chatgpt` or modify the channel name in the event message handling (line 86 in `bot.rb`).
 
