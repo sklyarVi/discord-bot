@@ -100,5 +100,5 @@ bot.message(in: '#chatgpt') do |event|
   event.respond response
 end
 
-# Запуск бота
+# Run the bot
 bot.run
